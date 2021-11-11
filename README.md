@@ -5,6 +5,23 @@ For support / bug report, contact jiahao@maglav.studio
 
 ![Alt text](.//chordsuite.png?raw=true "Chord Suite")
 
+## Quick Tips:
+
+Chord Player:
+
+- modulate the Chord Set / Chord CV to get diffent scales and create chord progressions.
+- modulate the Bass Note Select CV to create basslines.
+- use 'Wonderwall' mode via menu to repace 7th note with 10th  (3rd but an octave higher).
+- use 'Voice 1 Polyphonic' via menu to use voice 1 as polyphonic output.
+- modulate the voicing cv input (activate by pressing the voicing button).
+
+Arp Player:
+- modulate the Note Combination CV to get different combinations of chord note.
+- modulate the Quantize Mode CV to dynamically quantize to chord notes or scale notes.
+- when patching a lfo into the Raw Pitch Input, try using 'Arpeggiator Mode' via menu.
+- use the Sample N Hold CV to create rhythmic patterns.
+- Arp Player is chain-able, add as many voices as you want. 
+
 ## CHORD PLAYER
 
 Chord Player is a 4-plus-1-voice quantizer designed for playing chord and bassline together.
