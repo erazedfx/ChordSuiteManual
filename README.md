@@ -1,4 +1,4 @@
-# ChordSuiteManual
+# Chord Suite Manual
 Manual For Chord Suite (Work in progress)
 
 For support / bug report, contact jiahao@maglav.studio
