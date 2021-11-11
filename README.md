@@ -14,6 +14,7 @@ Chord Player:
 - use 'Wonderwall' mode via menu to repace 7th note with 10th  (3rd but an octave higher).
 - use 'Voice 1 Polyphonic' via menu to use voice 1 as polyphonic output.
 - modulate the voicing cv input (activate by pressing the voicing button).
+- select your global song key via menu.
 
 Arp Player:
 - modulate the Note Combination CV to get different combinations of chord note.
