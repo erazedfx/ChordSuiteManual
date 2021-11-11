@@ -106,7 +106,7 @@ When the knob is in fully CW position, all 4 notes of the chord are available fo
 
 **Quantize Mode Select Button & CV:** Use this to toggle between Arpeggiator Mode and Scale Quanzier Mode.
 
-**Sample N Hold Led & Sample N Hold Trigger In:** When the Sample N Hold Trigger is connected, the Sample N Hold Section of the module is enabled. The quantized result is temporarily stored away and quantized output will not update until a trigger signal is received.
+**Sample N Hold Led & Sample N Hold Trigger In:** When the Sample N Hold Trigger is connected, the Sample N Hold Section of the module is active. The quantized result is temporarily stored away and quantized output will not update until a trigger signal is received.
 The led indicates how far the stored pitch is from the current output. Red indicates a lower pitch and green indicates a higher one.
 
 **Pitch Input & Output CV:** These are the unquantized pitch input and the quantized pitch output.
