@@ -81,7 +81,7 @@ The Led indicates how far the voicing cv is from the default voicing. When voici
 
 ## ARP PLAYER
 
-Arp Player is an chainable quantizer/arpeggiator expander module for Chord Player. This allows users to use it to create melody on top of Chord Player’s chord.
+Arp Player is an chainable quantizer/arpeggiator expander module for Chord Player. This allows users to use it to create melodies on top of Chord Player’s chord.
 
 **Arp Player has 3 sections, the Arpeggiator, the Scale Quantizer and the Sample N Hold section.**
 
