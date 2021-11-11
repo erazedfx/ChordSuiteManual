@@ -1,6 +1,8 @@
 # ChordSuiteManual
 Manual For Chord Suite (Work in progress)
 
+![Alt text](.//chordsuite.png?raw=true "Chord Suite")
+
 ## CHORD PLAYER
 
 Chord Player is a 4-plus-1-voice quantizer designed for playing chord and bassline together.
