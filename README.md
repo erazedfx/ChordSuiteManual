@@ -126,7 +126,7 @@ The led indicates how far the stored pitch is from the current output. Red indic
 **Audio Rate:** When active, the module runs at audio rate. By default it runs at 1/16th of the sample rate. 
 
 **Arpeggio Mode:** This will adjust the ‘voltage space’ between notes in Arpeggiator mode . By default, Arpeggiator Section quantizes the pitch input cv to a nearest chord note. 
-For example, in a C Major 7 chord, voltage difference between B and C will be smaller than for example C and E. So if you use a triangle LFO as pitch input, it will stay longer between say note C and E and much shorter time between. B and C.
+For example, in a C Major 7 chord, voltage difference between B and C will be smaller than C and E. So if you use a triangle LFO as pitch input, it will stay longer between say note C and E and much shorter time between. B and C.
 	When active, the voltage space is divided evenly between 4 notes. So you can have an equal amount of time stayed between notes as in the last example.
 
 
