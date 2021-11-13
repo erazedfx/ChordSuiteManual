@@ -4,7 +4,7 @@ For supports / bug reports / feature requests, contact jiahao@maglav.studio
 
 ![Alt text](.//chordsuite.png?raw=true "Chord Suite")
 
-## Quick Tips (aka How To Start):
+## Quick Tips (How To Start):
 
 Chord Player:
 
