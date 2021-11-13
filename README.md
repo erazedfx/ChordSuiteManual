@@ -72,7 +72,7 @@ Avaible Chord Sets:
 **Voicing Button:** Toggles revoice mode. When revoice mode is off, the default voicing is root, 3rd + 1 oct, 5th and 7th.
 
 **Voicing CV & Led:** Input for voicing CV. When revoice is enabled (by toggling the revoice button), the higher the Voicing CV is, the higher the revoiced notes will be.
-The Led indicates how far the voicing cv is from the default voicing. When voicing cv is higher than the internal cv, led will light up green, if voicing cv is lower, it will light up green.
+This led indicates how far the voicing cv is from the default voicing. When voicing cv is higher than the internal cv, led will light up green, if voicing cv is lower, it will light up green.
 
 **Transpose:** Global transpose cv, 1v/oct standard.
 
