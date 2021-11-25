@@ -1,6 +1,6 @@
 # Chord Suite Manual (Work in progress)
 
-For supports / bug reports / feature requests, contact jiahao@maglav.studio 
+For supports / bug reports / feature requests, contact jiahao@maglav.studio .
 Updates for VCV 2 is planned.
 
 ![Alt text](.//chordsuite.png?raw=true "Chord Suite")
