@@ -1,6 +1,7 @@
 # Chord Suite Manual (Work in progress)
 
 For supports / bug reports / feature requests, contact jiahao@maglav.studio
+Updates for VCV 2 is planned.
 
 ![Alt text](.//chordsuite.png?raw=true "Chord Suite")
 
@@ -16,11 +17,12 @@ Chord Player:
 - select your global song key via menu.
 
 Arp Player:
+- connect Arp Player to Chord Player by simply placing it on the right side of Chord Player without any empty space.
 - modulate the Note Combination CV to get different combinations of chord notes.
 - modulate the Quantize Mode CV to dynamically quantize to chord notes or scale notes.
 - when patching a lfo into the Raw Pitch Input, using 'Arpeggiator Mode' via menu will give you a better pitch range.
 - use the Sample N Hold CV to create rhythmic patterns.
-- Arp Player is chain-able, add as many voices as you want. 
+- Arp Player is chain-able, add as many as you want, just remember to place it on the right side without empty space. 
 
 ## CHORD PLAYER
 
