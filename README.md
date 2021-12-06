@@ -2,7 +2,7 @@
 
 For supports / bug reports / feature requests, contact jiahao@maglav.studio 
 
-Note: **update for VCV 2 is coming, possibly before 2022**
+Note: **VCV 2 is now suportted**
 
 ![Alt text](.//chordsuite.png?raw=true "Chord Suite")
 
