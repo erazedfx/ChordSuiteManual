@@ -2,7 +2,7 @@
 
 For supports / bug reports / feature requests, contact jiahao@maglav.studio 
 
-Note: **VCV 2 is now suportted**
+Note: **VCV 2 is now supported**
 
 ![Alt text](.//chordsuite.png?raw=true "Chord Suite")
 
